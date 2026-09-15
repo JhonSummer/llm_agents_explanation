@@ -23,6 +23,8 @@ The sticky notes stay where they are. You only change **which ones you read**. L
 ## What’s in here
 
 - `DeclarativeAttention_BytesOnTheBus.py` — Manim scene for that story (GPU, VRAM, PCIe, KV cache, focus / global / local tags)
+- `STORYBOARD.md` — scene-wise plan and pacing rules we directed from
+- `VOICEOVER.md` — spoken lines, cue times, and how to mux VO without overlaps
 
 Paper: [arXiv:2609.02737](https://arxiv.org/abs/2609.02737)
 
